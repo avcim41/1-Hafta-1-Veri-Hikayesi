@@ -12,6 +12,17 @@ Konut fiyatlarındaki nominal artış enflasyondan arındırıldığında nasıl
 
 Resmî kaynaklar: https://evds3.tcmb.gov.tr/ ve https://veriportali.tuik.gov.tr/
 
+## Veri Kaynakları
+
+Bu çalışmada aşağıdaki kamuya açık veri kaynakları kullanılmıştır:
+
+- **Türkiye Cumhuriyet Merkez Bankası (TCMB):** Konut Fiyat Endeksi (KFE)
+- **Türkiye İstatistik Kurumu (TÜİK):** Tüketici Fiyat Endeksi (TÜFE)
+
+Analiz dönemi: Ocak 2020 – Ekim 2026.
+
+Veriler eğitim, araştırma ve veri analizi amacıyla kullanılmıştır. Veri kaynaklarının hakları ilgili kurumlara aittir.
+
 ## Çalıştırma
 1. Ham Excel dosyalarını `data/konut_fiyat_endeksi.xlsx` ve `data/tufe.xlsx` adlarıyla yerleştirin.
 2. `pip install -r requirements.txt` komutunu çalıştırın.
