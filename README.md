@@ -16,7 +16,7 @@ Her hafta farklı bir araştırma sorusuna kamuya açık veriler ve Python kulla
 | Hafta | Proje | Durum |
 |---|---|---|
 | 01 | [Türkiye'de Nominal ve Reel Konut Fiyatları](./01-Konut-Fiyatlari-Analizi) | ✅ Tamamlandı |
-| 02 | [Türkiye'de Asgari Ücret ve Satın Alma Gücü](./02-Asgari-Ucret-Alim-Gucu) | 🚧 Hazırlanıyor |
+| 02 | [Türkiye'de Asgari Ücret ve Satın Alma Gücü](./02-Asgari-Ucret-Alim-Gucu) | ✅ Tamamlandı |
 
 ## 🛠️ Kullanılan Teknolojiler
 
